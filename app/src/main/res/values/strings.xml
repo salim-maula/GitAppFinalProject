@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Git App</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_not_found">Name Not Found</string>
+    <string name="nama">Nama</string>
+    <string name="username">Username</string>
+    <string name="location">Location</string>
+    <string name="angka">0</string>
+    <string name="repositories">Repositories</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="input_github_username">Input Github Username…</string>
+    <string name="type">Type</string>
+    <string name="search_username">Search Username</string>
+    <string name="bran">Bran</string>
+    <string name="check_internet">Check Internet</string>
+    <string name="search">Search</string>
+    <string name="background">BackGround</string>
+    <string name="profile">Profile</string>
+    <string name="arrow_back">Arrow Back</string>
+    <string name="setting">setting</string>
+    <string name="change_language">Change language</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="add_favorite">Added to Favorites</string>
+    <string name="remove_favorite">Removed from Favorites</string>
+    <string name="see">See</string>
+    <string name="go">GO</string>
+    <string name="user_like">User Like</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Git App</string>
+    <string name="hello_blank_fragment">Fragment Kosong</string>
+    <string name="name_not_found">nama tidak diketahui</string>
+    <string name="nama">Nama</string>
+    <string name="username">Username</string>
+    <string name="location">Location</string>
+    <string name="angka">0</string>
+    <string name="repositories">Repositories</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="input_github_username">Input Github Username…</string>
+    <string name="type">Type</string>
+    <string name="search_username">cari nama</string>
+    <string name="bran">Brand</string>
+    <string name="check_internet">Check Internet</string>
+    <string name="search">cari</string>
+    <string name="background">BackGround</string>
+    <string name="profile">Profile</string>
+    <string name="arrow_back">kembali</string>
+    <string name="setting">pengaturan</string>
+    <string name="change_language">ubah bahasa</string>
+    <string name="dark_mode">mode gelap</string>
+    <string name="add_favorite">tambahkan favorite</string>
+    <string name="remove_favorite">hapus favorite</string>
+    <string name="see">Lihat</string>
+</resources>
